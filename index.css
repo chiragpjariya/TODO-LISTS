@@ -96,6 +96,7 @@ input[type='checkbox'] {
 .complete {
     background-color: gray;
     color: white;
+    text-decoration-line: line-through;
 }
 
 .Listes {
